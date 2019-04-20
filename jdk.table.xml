@@ -1,0 +1,283 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5 (test)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/PycharmProjects/test/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/test/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/test/venv/lib/python3.5/site-packages/setuptools-28.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/test/venv/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1844710993" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/test" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Learn_Flask)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/Desktop/GitHub REPOS/Learn_Flask/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Learn_Flask/venv/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Learn_Flask/venv/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Learn_Flask/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-1268831850" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/GitHub REPOS/Learn_Flask" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Accion_Labs_test)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/anaconda3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1752940564" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/GitHub REPOS/Accion_Labs_test" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/anaconda3/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1493417313" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Simple-URL-Shortner-on-Flask)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/Desktop/GitHub REPOS/Simple-URL-Shortner-on-Flask/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Simple-URL-Shortner-on-Flask/venv/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Simple-URL-Shortner-on-Flask/venv/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Simple-URL-Shortner-on-Flask/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/-55354154" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/GitHub REPOS/Simple-URL-Shortner-on-Flask" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (Parking-Lot-Problem-Swiggy)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/PycharmProjects/Parking-Lot-Problem-Swiggy/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Parking-Lot-Problem-Swiggy/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Parking-Lot-Problem-Swiggy/venv/lib/python3.5/site-packages/setuptools-39.1.0-py3.5.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Parking-Lot-Problem-Swiggy/venv/lib/python3.5/site-packages/pip-10.0.1-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/811197360" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Parking-Lot-Problem-Swiggy" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Revolut - Python Engineer Data Task)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/Desktop/GitHub REPOS/Revolut - Python Engineer Data Task/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Revolut - Python Engineer Data Task/venv/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Revolut - Python Engineer Data Task/venv/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Revolut - Python Engineer Data Task/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/839069592" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/GitHub REPOS/Revolut - Python Engineer Data Task" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Revolut - Python Engineer Data Task) (2)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/Desktop/GitHub REPOS/Revolut - Python Engineer Data Task/venv/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Revolut - Python Engineer Data Task/venv/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Revolut - Python Engineer Data Task/venv/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Revolut - Python Engineer Data Task/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/241353627" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/GitHub REPOS/Revolut - Python Engineer Data Task" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (simple-TODO-app)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/Desktop/GitHub REPOS/simple-TODO-app/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/simple-TODO-app/venv/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/simple-TODO-app/venv/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/simple-TODO-app/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/891645683" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/GitHub REPOS/simple-TODO-app" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (Python Assignment - Plate IQ)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.3" />
+      <homePath value="$USER_HOME$/Desktop/GitHub REPOS/Python Assignment - Plate IQ/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Python Assignment - Plate IQ/venv/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Python Assignment - Plate IQ/venv/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/Desktop/GitHub REPOS/Python Assignment - Plate IQ/venv/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1002915088" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Desktop/GitHub REPOS/Python Assignment - Plate IQ" />
+    </jdk>
+  </component>
+</application>
